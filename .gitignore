@@ -1,0 +1,5 @@
+*.log
+Build/
+bin/
+confirguration.xml
+src/java/
